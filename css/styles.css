@@ -2692,7 +2692,12 @@ img.u-pull-left {
     line-height : 1.0740;
     margin-top  : 0;
 }
-
+.text-medium-title {
+    --text-medium : 3.8rem;
+    font-size   : var(--text-medium);
+    line-height : 1.0740;
+    margin-top  : 0;
+}
 /* -------------------------------------------------------------------
  * ## MailtoUI style overrides
  * ------------------------------------------------------------------- */
@@ -3208,7 +3213,10 @@ img.u-pull-left {
     font-size     : calc(var(--text-huge) * var(--text-huge-multiplier));
     padding-right : 5vw;
 }
-
+.intro-content .text-medium-title {
+    font-size     : calc(var(--text-medium) * var(--text-huge-multiplier));
+    padding-right : 5vw;
+}
 /* --------------------------------------------------------------------
  * ## intro social
  * -------------------------------------------------------------------- */
