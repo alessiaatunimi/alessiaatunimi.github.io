@@ -4107,7 +4107,22 @@ img.u-pull-left {
     margin-left  : auto;
     margin-right : 5vw;
 }
+.btn {
+  background-color: #141516; /* Blue background */
+  border: none; /* Remove borders */
+  color: #89af95; /* White text */
+  border-radius: 8px;
+  padding: 5px;
+   /* Some padding */
+  /*font-size: 10px; /* Set a font size */
+  cursor: pointer; /* Mouse pointer on hover */
+}
 
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: #141516
+  color: white;
+}
 /* -------------------------------------------------------------------
  * responsive:
  * contact
