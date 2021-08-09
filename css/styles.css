@@ -3420,11 +3420,13 @@ img.u-pull-left {
     object-fit     : cover;
     margin         : 0;
     vertical-align : bottom;
+    width: 400px;
+    border-radius: 20px;
 }
 
 .about-info__text {
     padding     : var(--vspace-3_5) 10vw var(--vspace-2) 0;
-    margin-left : -4rem;
+    margin-left :1rem;
 }
 
 .about-info__text .text-pretitle {
