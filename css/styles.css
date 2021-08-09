@@ -3420,8 +3420,10 @@ img.u-pull-left {
     object-fit     : cover;
     margin         : 0;
     vertical-align : bottom;
-    width: 400px;
-    border-radius: 20px;
+    min-width: 80%;
+    max-width: 100%;
+    width: 50%;
+    border-radius: 40px;
 }
 
 .about-info__text {
