@@ -80,7 +80,6 @@
     "link": "https://ceur-ws.org/Vol-3928/paper_165.pdf",
     "areas": [
       "networks"
-      
     ],
     "featured": false,
     "type": "inbook",
@@ -162,7 +161,8 @@
     "venue": "ICC 2023 - IEEE International Conference on Communications",
     "link": "https://doi.org/10.1109/ICC45041.2023.10278763",
     "areas": [
-      "social", "networks"
+      "social",
+      "networks"
     ],
     "featured": false,
     "type": "inbook",

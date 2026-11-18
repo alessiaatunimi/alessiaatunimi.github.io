@@ -1,1 +1,0 @@
-<article class="publication"><span class="pub-year">{{ .Params.year | default "—" }}</span><div><h3>{{ with .Params.link }}<a href="{{ . }}">{{ $.Title }} ↗</a>{{ else }}{{ .Title }}{{ end }}</h3><p>{{ .Params.authors }}</p><p class="venue">{{ .Params.venue }}{{ with .Params.status }} · {{ . }}{{ end }}</p></div></article>
