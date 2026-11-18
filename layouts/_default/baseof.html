@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ if not .IsHome }}{{ .Title }} · {{ end }}{{ site.Title }}</title>
+<meta name="description" content="{{ .Description | default site.Params.description }}">
+<link rel="canonical" href="{{ .Permalink }}"><link rel="icon" href="{{ "favicon.ico" | relURL }}">
+<link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+</head>
+<body id="top" class="{{ if .IsHome }}home{{ else }}inner{{ end }}">
+<a class="skip" href="#main">Skip to content</a>
+<header class="header wrap"><a class="logo" href="{{ site.Home.RelPermalink }}" aria-label="Alessia Galdeman home">AG<span>.</span></a>
+<nav aria-label="Main navigation">{{ $current := . }}{{ range slice "Research" "Publications" "Teaching" "About" }}{{ $url := printf "/%s/" (lower .) }}<a href="{{ $url | relURL }}" {{ if eq $current.RelPermalink ($url | relURL) }}aria-current="page"{{ end }}>{{ . }}</a>{{ end }}<a href="{{ "/#contact" | relURL }}">Contact</a></nav></header>
+<main id="main">{{ block "main" . }}{{ end }}</main>
+<footer class="wrap footer"><span>© {{ now.Year }} Alessia Galdeman</span><span>Content: {{ site.Params.cvUpdated }} · Built with Hugo<br>Original design by <a href="https://www.styleshout.com/">StyleShout</a></span><a href="#top">Back to top ↑</a></footer>
+</body></html>

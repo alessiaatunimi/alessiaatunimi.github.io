@@ -1,0 +1,9 @@
+<article class="publication" data-areas="{{ delimit .areas " " }}" id="publication-{{ .id }}">
+  <span class="pub-year">{{ .year }}</span>
+  <div>
+    <h3>{{ with .link }}<a href="{{ . }}">{{ $.title }} ↗</a>{{ else }}{{ .title }}{{ end }}</h3>
+    <p>{{ .authors }}</p>
+    <p class="venue">{{ .venue }}{{ if eq .type "phdthesis" }} · Doctoral thesis{{ end }}{{ with .status }} · {{ . }}{{ end }}</p>
+    <ul class="publication-areas" aria-label="Research areas">{{ range .areas }}<li>{{ index site.Data.research_areas . }}</li>{{ end }}</ul>
+  </div>
+</article>

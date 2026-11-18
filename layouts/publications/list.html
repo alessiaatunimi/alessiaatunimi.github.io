@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="wrap article">
+  <header class="page-heading publications-heading">
+    <p class="eyebrow">Research output</p>
+    <h1>{{ .Title }}</h1><p class="lead">{{ .Description }}</p>
+    <div class="profile-links" aria-label="Academic profiles">
+      <a class="text-link" href="{{ site.Params.scholar }}">Google Scholar ↗</a>
+      <a class="text-link" href="{{ site.Params.scopus }}">Scopus ↗</a>
+      <a class="text-link" href="{{ "files/publications.bib" | relURL }}" download>Download BibTeX ↓</a>
+    </div>
+  </header>
+  <div data-publication-filters hidden>
+    <div class="publication-filters" role="group" aria-label="Filter publications by research area">
+      <button type="button" data-area="all" aria-pressed="true" aria-controls="publication-list">All publications <span>{{ len site.Data.publications }}</span></button>
+      {{ range $area := slice "networks" "social" "learning" }}
+      <button type="button" data-area="{{ $area }}" aria-pressed="false" aria-controls="publication-list">{{ index site.Data.research_areas $area }} <span>{{ len (where site.Data.publications "areas" "intersect" (slice $area)) }}</span></button>
+      {{ end }}
+    </div>
+    <p class="publication-count" role="status" aria-live="polite" aria-atomic="true"></p>
+  </div>
+  <noscript><p>All publications are shown below. Each entry lists its research areas.</p></noscript>
+  <div id="publication-list">{{ range site.Data.publications }}{{ partial "bib-publication.html" . }}{{ end }}</div>
+</section>
+<script src="{{ "js/publications.js" | relURL }}" defer></script>
+{{ end }}

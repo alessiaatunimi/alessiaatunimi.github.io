@@ -1,0 +1,14 @@
+baseURL = 'https://alessiaatunimi.github.io/'
+languageCode = 'en'
+title = 'Alessia Galdeman'
+disableKinds = ['taxonomy', 'term']
+[params]
+  description = 'Alessia Galdeman — network science, machine learning and computational social science.'
+  email = 'alessia.galdeman@unimi.it'
+  linkedin = 'https://www.linkedin.com/in/alessiagaldeman/'
+  bluesky = 'https://bsky.app/profile/alessianetwork.bsky.social'
+  scholar = 'https://scholar.google.com/citations?user=vJGiJWcAAAAJ&hl=en'
+  scopus = 'https://www.scopus.com/authid/detail.uri?authorId=57210339602'
+  cvUpdated = 'September 2026'
+[markup.goldmark.renderer]
+  unsafe = false

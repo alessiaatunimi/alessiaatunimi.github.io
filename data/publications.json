@@ -1,0 +1,259 @@
+[
+  {
+    "id": "2434_1225897",
+    "title": "Mapping regional disparities in discounted grocery products",
+    "authors": "A. Desiderio, A. Galdeman, F. Bäuerlein, S. Lehmann",
+    "year": 2026,
+    "venue": "NPJ SCIENCE OF FOOD",
+    "link": "https://doi.org/10.1038/s41538-026-00764-0",
+    "areas": [
+      "social"
+    ],
+    "featured": true,
+    "type": "article",
+    "status": ""
+  },
+  {
+    "id": "2434_1229975",
+    "title": "Representation of the temporal ego-networks through graph evolution rules: a tool for Web3 applications",
+    "authors": "A. Galdeman, M. Zignani, C. Quadri, S. Gaito",
+    "year": 2026,
+    "venue": "ITADATA 2025 : Italian Conference on Big Data and Data Science 2025",
+    "link": "https://ceur-ws.org/Vol-4152/paper59.pdf",
+    "areas": [
+      "networks"
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_1057208",
+    "title": "Analyzing user migration in blockchain online social networks through network structure and discussion topics of communities on multilayer networks",
+    "authors": "C. T. Ba, M. Dileo, A. Galdeman, M. Zignani, S. Gaito",
+    "year": 2025,
+    "venue": "DISTRIBUTED LEDGER TECHNOLOGIES",
+    "link": "https://doi.org/10.1145/3640020",
+    "areas": [
+      "networks",
+      "social"
+    ],
+    "featured": false,
+    "type": "article",
+    "status": ""
+  },
+  {
+    "id": "2434_1225898",
+    "title": "Characterizing NFT markets through a multilayer network approach",
+    "authors": "A. Galdeman, L. La Cava, M. Zignani, A. Tagarelli, S. Gaito",
+    "year": 2025,
+    "venue": "BLOCKCHAIN: RESEARCH AND APPLICATIONS",
+    "link": "https://doi.org/10.1016/j.bcra.2025.100356",
+    "areas": [
+      "networks"
+    ],
+    "featured": false,
+    "type": "article",
+    "status": ""
+  },
+  {
+    "id": "2434_1161495",
+    "title": "Exploring Time-Ordered Triadic Closure in Online Social Networks",
+    "authors": "A. Galdeman, C. T. Ba, M. Zignani, S. Gaito",
+    "year": 2025,
+    "venue": "ACM TRANSACTIONS ON THE WEB",
+    "link": "https://doi.org/10.1145/3732295",
+    "areas": [
+      "networks",
+      "social"
+    ],
+    "featured": true,
+    "type": "article",
+    "status": ""
+  },
+  {
+    "id": "2434_1154537",
+    "title": "Graph evolution rules for node temporal behavior representation",
+    "authors": "A. Galdeman, M. Zignani, C. Quadri, S. Gaito",
+    "year": 2025,
+    "venue": "DS-LB 2024 : DS Late Breaking Contributions 2024",
+    "link": "https://ceur-ws.org/Vol-3928/paper_165.pdf",
+    "areas": [
+      "networks"
+      
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_1132535",
+    "title": "Graph evolution rules meet communities: assessing global and local patterns in the evolution of dynamic networks",
+    "authors": "A. Galdeman, M. Zignani, S. Gaito",
+    "year": 2025,
+    "venue": "BIG DATA MINING AND ANALYTICS",
+    "link": "https://doi.org/10.26599/bdma.2024.9020050",
+    "areas": [
+      "networks"
+    ],
+    "featured": false,
+    "type": "article",
+    "status": ""
+  },
+  {
+    "id": "2434_1173095",
+    "title": "Mapping the Climate Change Landscape on TikTok",
+    "authors": "A. Galdeman, L. M. Aiello",
+    "year": 2025,
+    "venue": "Proceedings of the Nineteenth International AAAI Conference on Web and Social Media",
+    "link": "https://doi.org/10.1609/icwsm.v19i1.35962",
+    "areas": [
+      "social"
+    ],
+    "featured": true,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_1120937",
+    "title": "A framework for network evolution",
+    "authors": "A. Galdeman",
+    "year": 2024,
+    "venue": "Università degli Studi di Milano",
+    "link": "https://doi.org/10.13130/galdeman-alessia_phd2024-12-05",
+    "areas": [
+      "networks"
+    ],
+    "featured": false,
+    "type": "phdthesis",
+    "status": ""
+  },
+  {
+    "id": "2434_1122717",
+    "title": "Formal Methods for Attack Detection in Autonomous Driving Systems: The FORESEEN Project",
+    "authors": "C. Bernardeschi, G. Lettieri, A. Vivani, A. Bechini, A. Vecchio, F. Rossi, C. Quadri, A. Galdeman, A. Fagiolini, S. Pedone, A. Santone, V. Nardone, F. Mercaldo, S. Correra, G. Varriano",
+    "year": 2024,
+    "venue": "2024 IEEE International Conference on Autonomic Computing and Self-Organizing Systems Companion (ACSOS-C)",
+    "link": "https://doi.org/10.1109/acsos-c63493.2024.00055",
+    "areas": [],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_1019715",
+    "title": "Unfolding temporal networks through statistically significant graph evolution rules",
+    "authors": "A. Galdeman, M. Zignani, S. Gaito",
+    "year": 2023,
+    "venue": "2023 IEEE 10th International Conference on Data Science and Advanced Analytics (DSAA)",
+    "link": "https://doi.org/10.1109/DSAA60987.2023.10302496",
+    "areas": [
+      "networks"
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_1024248",
+    "title": "User Migration Across Web3 Online Social Networks: Behaviors and Influence of Hubs",
+    "authors": "A. Galdeman, M. Zignani, S. Gaito",
+    "year": 2023,
+    "venue": "ICC 2023 - IEEE International Conference on Communications",
+    "link": "https://doi.org/10.1109/ICC45041.2023.10278763",
+    "areas": [
+      "social", "networks"
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_1024292",
+    "title": "User migration prediction in blockchain socioeconomic networks using graph neural networks",
+    "authors": "C. T. Ba, A. Galdeman, M. Dileo, M. Zignani, S. Gaito",
+    "year": 2023,
+    "venue": "GoodIT '23: Proceedings of the 2023 ACM: conference on Information Technology for Social Good",
+    "link": "https://doi.org/10.1145/3582515.3609552",
+    "areas": [
+      "learning",
+      "social"
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_956571",
+    "title": "Disentangling the Growth of Blockchain-based Networks by Graph Evolution Rule Mining",
+    "authors": "A. Galdeman, M. Zignani, S. Gaito",
+    "year": 2022,
+    "venue": "2022 IEEE 9th International Conference on Data Science and Advanced Analytics (DSAA)",
+    "link": "https://doi.org/10.1109/DSAA54385.2022.10032398",
+    "areas": [
+      "networks"
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_939452",
+    "title": "Temporal analysis of cooperative behaviour in a blockchain for humanitarian aid during the COVID-19 pandemic",
+    "authors": "C. T. Ba, A. Galdeman, M. Zignani, S. T. Gaito",
+    "year": 2022,
+    "venue": "GoodIT '22: Proceedings",
+    "link": "https://doi.org/10.1145/3524458.3547245",
+    "areas": [
+      "networks",
+      "social"
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_969809",
+    "title": "Web3 Social Platforms: Modeling, Mining and Evolution",
+    "authors": "C. T. Ba, A. Galdeman, M. Dileo, C. Quadri, M. Zignani, S. Gaito",
+    "year": 2022,
+    "venue": "ITADATA 2022 : Italian Conference on Big Data and Data Science 2022",
+    "link": "https://ceur-ws.org/Vol-3340/paper30.pdf",
+    "areas": [
+      "networks",
+      "learning"
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_903531",
+    "title": "A Multilayer Network Perspective on Customer Segmentation Through Cashless Payment Data",
+    "authors": "A. Galdeman, C. T. Ba, M. Zignani, S. Gaito",
+    "year": 2021,
+    "venue": "2021 IEEE 8th International Conference on Data Science and Advanced Analytics (DSAA)",
+    "link": "https://doi.org/10.1109/DSAA53316.2021.9564187",
+    "areas": [
+      "networks"
+    ],
+    "featured": false,
+    "type": "inbook",
+    "status": ""
+  },
+  {
+    "id": "2434_903523",
+    "title": "City consumption profile: a city perspective on the spending behavior of citizens",
+    "authors": "A. Galdeman, C. T. Ba, M. Zignani, C. Quadri, S. Gaito",
+    "year": 2021,
+    "venue": "APPLIED NETWORK SCIENCE",
+    "link": "https://doi.org/10.1007/s41109-021-00406-2",
+    "areas": [
+      "networks",
+      "social"
+    ],
+    "featured": false,
+    "type": "article",
+    "status": ""
+  }
+]
