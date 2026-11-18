@@ -7,12 +7,15 @@ tagline: Passionate about network analysis and computational social science.
 aboutTitle: Understanding connections, discovering patterns.
 topics:
   - number: '01'
+    area: networks
     title: Temporal & multilayer networks
     text: Graph evolution rules, community structure, and the patterns that shape dynamic networks.
   - number: '02'
+    area: social
     title: Social platforms & collective behaviour
     text: From migration and cooperation in Web3 to climate discourse on social media.
   - number: '03'
+    area: learning
     title: Machine learning on graphs
     text: Learning from network structure to understand behaviour and predict change.
 ---
