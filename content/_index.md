@@ -2,7 +2,7 @@
 title: Home
 greeting: Hello World
 intro: "I'm Alessia,"
-role: a researcher in Milan.
+role: a research fellow in Milan.
 tagline: Passionate about network analysis and computational social science.
 aboutTitle: Understanding connections, discovering patterns.
 topics:
